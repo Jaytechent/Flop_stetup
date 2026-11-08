@@ -300,4 +300,4 @@ pnpm onboard verify
 - **Devnet Explorer:** [https://explorer.devnet.flop.network](https://explorer.devnet.flop.network)
 - **FLOP on X:** [https://x.com/flop_labs](https://x.com/flop_labs)
 - **My Twitter:** [https://twitter.com/HallenjayArt](https://twitter.com/HallenjayArt)
-- **My Discord:** `mztacat_`
+- **My Discord:** `hallenjay`
